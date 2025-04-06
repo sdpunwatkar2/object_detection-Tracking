@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Safe Zone",
+    "coords": [50, 50, 300, 300],
+    "color": [0, 255, 0]
+  },
+  {
+    "name": "Restricted",
+    "coords": [350, 100, 600, 400],
+    "color": [0, 0, 255]
+  }
+]
