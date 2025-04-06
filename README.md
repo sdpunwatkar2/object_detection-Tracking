@@ -14,3 +14,15 @@
 - Saves annotated video to disk
 
 ## 📁 Project Structure
+      ai_surveillance_pro/
+├── main.py                  # Main script to run the surveillance system
+├── requirements.txt         # List of dependencies
+├── README.md                # Project documentation
+├── yolov8n.pt               # Pre-trained YOLOv8 Nano model weights
+├── zone_config.json         # JSON file for zone-specific configuration
+├── logs/                    # Logs generated during execution
+│   └── log.txt              # Example log file
+├── outputs/                 # Captured outputs like snapshots, videos
+│   └── snapshots/           # Saved snapshots of detected persons
+└── test 2/                  # Project folder (if still nested, optional to show)
+
